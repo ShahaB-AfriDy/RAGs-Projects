@@ -98,5 +98,11 @@ Future additions may include:
 
 **Shahab Afridi**
 
-GitHub:
-https://github.com/ShahaB-AfriDy
+Research interests:
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- AI Agents
+- Natural Language Processing
+
+Contact:
+📧 shahabafridy@gmail.com
