@@ -326,5 +326,11 @@ https://arxiv.org/pdf/2401.15884
 
 **Shahab Afridi**
 
-GitHub:  
-https://github.com/ShahaB-AfriDy
+Research interests:
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- AI Agents
+- Natural Language Processing
+
+Contact:
+📧 shahabafridy@gmail.com
